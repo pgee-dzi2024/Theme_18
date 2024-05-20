@@ -5,3 +5,4 @@ urlpatterns = [
     path('resume/', views.home, name="home"),
     path('', views.info,name="info")
 ]
+
